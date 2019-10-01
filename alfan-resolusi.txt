@@ -1,3 +1,5 @@
 alfan s=resolusi
 -belajar tiap hari
 -membuat program sederhana
+-membuat aplikasi yang mantap
+-mempunyai perusahaan sendiri
