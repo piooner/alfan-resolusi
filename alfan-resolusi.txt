@@ -1,0 +1,3 @@
+alfan s=resolusi
+-belajar tiap hari
+-membuat program sederhana
