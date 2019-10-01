@@ -3,6 +3,7 @@ plan learn
 -javascript
 *framework javascript
   $angular
+  $react
 -php framework
 *laravel
 -jquery
